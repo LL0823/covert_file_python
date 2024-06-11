@@ -14,7 +14,9 @@ PyInstaller: 6.7.0
 ![img.png](img.png)
 
 使用pyinstaller打包，打包遇到的巨多坑都在
+
 https://blog.csdn.net/u010964317/article/details/139510480?spm=1001.2014.3001.5502
+
 https://blog.csdn.net/u010964317/article/details/139524346?spm=1001.2014.3001.5502
 
 文件注释：
