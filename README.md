@@ -31,6 +31,9 @@ https://blog.csdn.net/u010964317/article/details/139524346?spm=1001.2014.3001.55
 
 ├── dist                           //打出的exe包存放位置
 
+需要打包可以直接使用命令pyinstaller .\convert_xmind_to_xlsx_gui.spec。spec中的配置都已配好
+
+## 2、convert_xmind_to_xlsx_gui
 ## 2.convert_xmind_to_xlsx_pyqt
 与第一步实现相同的功能，只是界面换成了PyQt5实现
 
