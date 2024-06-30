@@ -1,6 +1,6 @@
 # covert_file_python
 
-# 带GUI的文件转换练习项目
+# 带GUI的文件转换项目
 简介：练习python的gui库实现的带界面的文件转换工具，为了把xmind的用例转换成符合格式的excel用例。
 
 
@@ -33,7 +33,7 @@ https://blog.csdn.net/u010964317/article/details/139524346?spm=1001.2014.3001.55
 
 需要打包可以直接使用命令pyinstaller .\convert_xmind_to_xlsx_gui.spec。spec中的配置都已配好
 
-## 2、convert_xmind_to_xlsx_gui
+
 ## 2.convert_xmind_to_xlsx_pyqt
 与第一步实现相同的功能，只是界面换成了PyQt5实现
 
